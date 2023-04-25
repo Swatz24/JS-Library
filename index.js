@@ -1,4 +1,4 @@
 import Moment from 'moment';
 
-const time = new Moment();
-console.log("Time Now:", time.format('h:mm:ss a')); 
+const a = new Moment();
+console.log(a.format('h:mm:ss a')); 
